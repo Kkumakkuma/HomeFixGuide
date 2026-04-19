@@ -2,16 +2,58 @@
 layout: default
 ---
 
-<h1>Latest Articles</h1>
+<div class="hero">
+  <h1>{{ site.title }}</h1>
+  <p>{{ site.description }}</p>
+</div>
 
-<div class="ad-slot">Ad Space - Google AdSense will appear here after approval</div>
+<p style="font-size: 1.02em; color: #333;">Welcome to <strong>HomeFixGuide</strong>. Everything on this site is written by me, Kkuma Park, based on what I have actually tried, tested, and learned about home improvement. No recycled listicles, no AI word-salad &mdash; just useful notes I wish I had when I started.</p>
+
+<h2>Explore by Topic</h2>
+<div class="category-grid">
+  <div class="category-card">
+    <h3>Plumbing</h3>
+    <p>plumbing, leaks, drains</p>
+  </div>
+  <div class="category-card">
+    <h3>Electrical</h3>
+    <p>electrical, outlets, lighting</p>
+  </div>
+  <div class="category-card">
+    <h3>Walls & Paint</h3>
+    <p>walls, paint, wallpaper</p>
+  </div>
+  <div class="category-card">
+    <h3>Appliances</h3>
+    <p>appliances, repair</p>
+  </div>
+  <div class="category-card">
+    <h3>Tools</h3>
+    <p>tools, gear</p>
+  </div>
+  <div class="category-card">
+    <h3>Renovation</h3>
+    <p>renovation, decor</p>
+  </div>
+</div>
+
+<h2>Latest Articles</h2>
 
 <ul class="post-list">
-  {% for post in site.posts limit:20 %}
+  {% for post in site.posts limit:12 %}
   <li>
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    <p class="post-meta">{{ post.date | date: "%B %d, %Y" }} {% if post.categories %} | {{ post.categories | join: ", " }}{% endif %}</p>
-    <p>{{ post.excerpt | strip_html | truncatewords: 40 }}</p>
+    <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}{% if post.categories %} &middot; {{ post.categories | join: ", " }}{% endif %}</p>
+    <p>{{ post.excerpt | strip_html | truncatewords: 36 }}</p>
+    <p><a href="{{ post.url | relative_url }}">Continue reading &rarr;</a></p>
   </li>
   {% endfor %}
 </ul>
+
+<div class="author-box">
+  <div class="avatar">K</div>
+  <div>
+    <h4>Written by Kkuma Park</h4>
+    <p>I'm Kkuma Park, an indie writer in Seoul. I write about home improvement from my own experience, not summaries of what other blogs say. <a href="{{ '/about/' | relative_url }}">More about me &rarr;</a></p>
+  </div>
+</div>

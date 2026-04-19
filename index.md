@@ -1,4 +1,4 @@
 ---
 layout: home
-title: HomeFixGuide - Your Home Improvement & DIY Resource
+title: "HomeFixGuide &mdash; DIY home repair guides tested in a real old apartment."
 ---

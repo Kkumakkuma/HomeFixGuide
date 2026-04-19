@@ -1,28 +1,39 @@
 ---
 layout: default
-title: About HomeFixGuide
+title: "About HomeFixGuide"
 permalink: /about/
-description: "HomeFixGuide helps homeowners tackle DIY projects, repairs, and home improvement with confidence."
+description: "About Kkuma Park, the writer behind HomeFixGuide."
 ---
 
 # About HomeFixGuide
 
-HomeFixGuide is your trusted resource for practical home improvement advice, DIY tutorials, and repair tips that save you time and money.
+## Who writes here
 
-Whether you're a first-time homeowner or a seasoned DIY enthusiast, we break down every project into clear, manageable steps.
+My name is **Kkuma Park**. I'm an independent writer and developer based in Seoul, South Korea. I've spent more than a decade in IT, built a handful of small software products, and along the way accumulated a list of personal experiments, mistakes, and hard-won notes that turned into this blog.
 
-## What We Cover
+I bought a 25-year-old apartment with every imaginable problem — leaking sink, peeling wallpaper, an oven that gave up in 2010. HomeFixGuide is the running notebook of what I tried, what worked, and what I had to redo twice.
 
-- **DIY Projects** - Step-by-step guides for projects you can do yourself
-- **Plumbing** - Fix leaks, unclog drains, and handle common plumbing issues
-- **Electrical** - Safe electrical basics every homeowner should know
-- **Painting** - Professional painting techniques for flawless results
-- **Organization** - Smart storage solutions and decluttering tips
-- **Tools** - Reviews and guides for essential home improvement tools
-- **Outdoor** - Landscaping, deck building, and exterior maintenance
+## What HomeFixGuide is for
 
-## Our Mission
+HomeFixGuide is my working notebook on **home improvement**. Every article here exists because I needed the answer myself at some point and couldn't find a version I trusted.
 
-We believe every homeowner can learn to handle common repairs and improvements. Our mission is to give you the knowledge and confidence to maintain and improve your home without always calling a professional.
+I try to follow three rules on this site:
 
-New articles are published daily. Subscribe to our [RSS feed](/feed.xml) to never miss a post.
+1. **Write from experience, not summary.** If I haven't actually done it, I won't pretend I have.
+2. **Show the numbers.** Where real data, tests, or costs are useful, I include them.
+3. **Update when I'm wrong.** If I learn that an earlier post was inaccurate, I fix the post and add a note.
+
+## How I run this blog
+
+- Posts are published on a regular schedule.
+- I use AI tools (such as ChatGPT) to help with drafting structure and outlines, but every published post is reviewed, edited, and fact-checked by me before it goes live.
+- Affiliate links, when used, are marked. I only link to products I have actually used or would genuinely recommend.
+- Ads on this site come from Google AdSense once my site is approved. Ads help keep the site free to read.
+
+## Get in touch
+
+Questions, corrections, feedback, or collaboration ideas are welcome.
+
+**Email:** [kkumaspark@gmail.com](mailto:kkumaspark@gmail.com)
+
+For privacy, legal, and data practices, please see the [Privacy Policy](/privacy-policy/), [Terms](/terms/), and [Disclaimer](/disclaimer/).
