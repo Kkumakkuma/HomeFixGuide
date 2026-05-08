@@ -6,6 +6,8 @@ categories: [electrical]
 description: "How to Install Under-Cabinet LED Lighting - Practical home improvement tips and step-by-step guides for every homeowner."
 ---
 
+![How to Install Under-Cabinet LED Lighting](/HomeFixGuide/assets/pin-images/2026-04-12-how-to-install-under-cabinet-led-lighting.png)
+
 How to Install Under-Cabinet LED Lighting
 
 Are you looking to brighten up your kitchen or workspace? Under-cabinet LED lighting can transform dark corners into well-lit functional spaces, enhancing both aesthetics and functionality. With the right materials and a bit of time, you can achieve this upgrade yourself. In this guide, I'll walk you through the process of installing under-cabinet LED lighting, ensuring you have all the details you need for a successful project.

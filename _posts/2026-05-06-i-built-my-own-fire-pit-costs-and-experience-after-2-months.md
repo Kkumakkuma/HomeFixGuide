@@ -7,6 +7,8 @@ description: "Discover the costs and experiences of building my own fire pit! Le
 tags: [diy-projects, home-improvement-and-DIY, 2026]
 ---
 
+![I Built My Own Fire Pit: Costs and Experience After 2 Months](/HomeFixGuide/assets/pin-images/2026-05-06-i-built-my-own-fire-pit-costs-and-experience-after-2-months.png)
+
 During a chilly evening in October 2022, I found myself perusing expensive pre-made fire pits online. I was shocked to find that the average cost hovered around $500, with high-end models exceeding $1,000. Feeling adventurous and a bit thrifty, I decided to take matters into my own hands and build my own. With a budget of just $200, I set out, armed with a few tools and determination. Two months later, my backyard has transformed into a serene retreat, and I'm thrilled to share my experiences, costs, and lessons learned during this DIY journey.
 
 ## How I Researched This

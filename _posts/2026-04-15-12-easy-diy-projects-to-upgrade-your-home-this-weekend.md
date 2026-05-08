@@ -6,6 +6,8 @@ categories: [diy-projects]
 description: "12 Easy DIY Projects to Upgrade Your Home This Weekend - Practical home improvement tips and step-by-step guides for every homeowner."
 ---
 
+![12 Easy DIY Projects to Upgrade Your Home This Weekend](/HomeFixGuide/assets/pin-images/2026-04-15-12-easy-diy-projects-to-upgrade-your-home-this-weekend.png)
+
 Are you looking to breathe new life into your home without breaking the bank or spending weeks on end? You’re in luck! This weekend, you can tackle simple DIY projects that will significantly elevate your space and give it a fresh, updated look. Here are 12 easy DIY projects that will upgrade your home, providing a sense of accomplishment while sparking joy in your living spaces.
 
 ## 1. Create a Gallery Wall

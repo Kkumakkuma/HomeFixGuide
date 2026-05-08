@@ -6,6 +6,8 @@ categories: [plumbing]
 description: "How to Fix a Leaky Faucet in 5 Easy Steps - Practical home improvement tips and step-by-step guides for every homeowner."
 ---
 
+![How to Fix a Leaky Faucet in 5 Easy Steps](/HomeFixGuide/assets/pin-images/2026-04-04-how-to-fix-a-leaky-faucet-in-5-easy-steps.png)
+
 That constant drip-drip-drip from your faucet is more than just annoying. A leaky faucet can waste over 3,000 gallons of water per year, adding unnecessary cost to your utility bill. The good news? Fixing a leaky faucet is one of the easiest plumbing repairs you can tackle yourself.
 
 In this guide, we'll walk you through how to fix a leaky faucet step by step. No plumber required. Most homeowners can complete this repair in under 30 minutes with basic tools.

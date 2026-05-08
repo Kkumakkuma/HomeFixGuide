@@ -6,6 +6,8 @@ categories: [renovation, budget]
 description: "A step-by-step guide to planning and budgeting your home renovation project so you finish on time and on budget."
 ---
 
+![How to Plan a Home Renovation Without Going Over Budget](/HomeFixGuide/assets/pin-images/2026-04-06-how-to-plan-a-home-renovation-without-going-over-budget.png)
+
 The average home renovation goes **25-50% over budget**. That is not a small overrun. On a $20,000 kitchen remodel, that means an extra $5,000-10,000 you did not plan for.
 
 But here is the thing: budget overruns are almost always preventable. They happen because of poor planning, not bad luck. This guide will show you how to plan your renovation like a professional.
