@@ -2,8 +2,8 @@ name: Auto Generate Blog Post
 
 on:
   schedule:
-    # Run every 4 hours offset by 30 min: 00:30, 04:30, 08:30, 12:30, 16:30, 20:30 UTC
-    - cron: '30 0/4 * * *'
+    # Run every 6 hours starting at 05:31 UTC + random 0-60min delay
+    - cron: '31 5/6 * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:
