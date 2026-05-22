@@ -1,9 +1,7 @@
 name: Auto Generate Blog Post
 
 on:
-  schedule:
-    # Run every 6 hours starting at 05:31 UTC + random 0-60min delay
-    - cron: '31 5/6 * * *'
+  # cron_disabled_v8 (AdSense re-review — manual dispatch only)
   workflow_dispatch: # Allow manual trigger
 
 permissions:
