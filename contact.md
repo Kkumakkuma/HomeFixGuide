@@ -3,6 +3,8 @@ layout: default
 title: "Contact"
 permalink: /contact/
 description: "How to get in touch with Kkuma Park and HomeFixGuide."
+noindex: true
+sitemap: false
 ---
 
 # Contact
